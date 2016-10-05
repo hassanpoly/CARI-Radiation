@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<epcard:document xmlns:epcard='http://www.helmholtz-muenchen.de/neu/epcard/Schema_input' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' >
+
+<epcard:flight epcard:flightID='ICE603' epcard:departure='REK' epcard:destination='YYZ'  epcard:equipment='B757-200' epcard:date='2011-06-24' epcard:time='04:00' epcard:record='TV0406ICE.603' epcard:provider='SCIDOM\mares' epcard:old='TV0406UAL.808' epcard:ckin='594E' epcard:timemode='utc' >
+       <epcard:waypoint epcard:time='04:00' epcard:alt='00116' epcard:latNS='N' epcard:lat='6407' epcard:lonWE='E' epcard:lon='02149'/>
+       <epcard:waypoint epcard:time='04:31' epcard:alt='37000' epcard:old='TOC'/>
+       <epcard:waypoint epcard:time='05:19' epcard:alt='37000'/>
+       <epcard:waypoint epcard:time='05:44' epcard:alt='38000'/>
+       <epcard:waypoint epcard:time='07:28' epcard:alt='38000'/>
+       <epcard:waypoint epcard:time='07:44' epcard:alt='36000'/>
+       <epcard:waypoint epcard:time='08:11' epcard:alt='36000' epcard:old='TOD'/>
+	   
+      <epcard:waypoint epcard:time='08:38' epcard:alt='00000' epcard:latNS='N' epcard:lat='4530' epcard:lonWE='W' epcard:lon='07334'/>
+</epcard:flight>
+</epcard:document>

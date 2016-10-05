@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<epcard:document xmlns:epcard='http://www.helmholtz-muenchen.de/neu/epcard/Schema_input' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' >
+
+<epcard:flight epcard:flightID='UAE448' epcard:departure='DXB' epcard:destination='NZAA'  epcard:equipment='B777-200' epcard:date='2011-04-06' epcard:time='06:00' epcard:record='TV0406UAE.448' epcard:provider='SCIDOM\mares' epcard:old='TV0406UAE.448' epcard:ckin='594E' epcard:timemode='utc' >
+       <epcard:waypoint epcard:time='06:35' epcard:alt='01300' epcard:latNS='S' epcard:lat='2525' epcard:lonWE='E' epcard:lon='05536'/>
+       <epcard:waypoint epcard:time='07:05' epcard:alt='29000' epcard:old='TOC'/>
+       <epcard:waypoint epcard:time='11:05' epcard:alt='29000'/>
+       <epcard:waypoint epcard:time='12:45' epcard:alt='31000'/>
+       <epcard:waypoint epcard:time='13:55' epcard:alt='35000'/> 
+       <epcard:waypoint epcard:time='18:36' epcard:alt='36500'/>
+       <epcard:waypoint epcard:time='19:37' epcard:alt='36500' epcard:old='TOD'/>
+       <epcard:waypoint epcard:time='20:03' epcard:alt='00000' epcard:latNS='S' epcard:lat='3700' epcard:lonWE='E' epcard:lon='17459'/>
+</epcard:flight>
+</epcard:document>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<epcard:document xmlns:epcard='http://www.helmholtz-muenchen.de/neu/epcard/Schema_input' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' >
+
+<epcard:flight epcard:flightID='UAE241' epcard:departure='DXB' epcard:destination='YYZ'  epcard:equipment='A380-800' epcard:date='2011-05-24' epcard:time='04:00' epcard:record='TV0406ICE.603' epcard:provider='SCIDOM\mares' epcard:old='TV0406UAL.808' epcard:ckin='594E' epcard:timemode='utc' >
+       <epcard:waypoint epcard:time='04:00' epcard:alt='00900' epcard:latNS='N' epcard:lat='2515' epcard:lonWE='W' epcard:lon='05521'/>
+       <epcard:waypoint epcard:time='05:00' epcard:alt='34000' epcard:old='TOC'/>
+       <epcard:waypoint epcard:time='08:00' epcard:alt='34000'/>
+       <epcard:waypoint epcard:time='14:30' epcard:alt='36000'/>
+       <epcard:waypoint epcard:time='16:00' epcard:alt='34000'/>
+       <epcard:waypoint epcard:time='19:00' epcard:alt='38000'/>
+       <epcard:waypoint epcard:time='20:00' epcard:alt='40000'/>
+       <epcard:waypoint epcard:time='21:00' epcard:alt='40000' epcard:old='TOD'/>
+	   
+      <epcard:waypoint epcard:time='21:03' epcard:alt='00000' epcard:latNS='N' epcard:lat='4530' epcard:lonWE='E' epcard:lon='07334'/>
+</epcard:flight>
+</epcard:document>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<epcard:document xmlns:epcard='http://www.helmholtz-muenchen.de/neu/epcard/Schema_input' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' >
+
+<epcard:flight epcard:flightID='UAL808' epcard:departure='PEK' epcard:destination='KIAD'  epcard:equipment='B777-200' epcard:date='2011-06-25' epcard:time='10:20' epcard:record='TV0406UAL.808' epcard:provider='SCIDOM\mares' epcard:old='TV0406UAL.808' epcard:ckin='594E' epcard:timemode='utc' >
+       <epcard:waypoint epcard:time='10:30' epcard:alt='01600' epcard:latNS='S' epcard:lat='4006' epcard:lonWE='E' epcard:lon='11636'/>
+       <epcard:waypoint epcard:time='11:00' epcard:alt='26000' epcard:old='TOC'/>
+       <epcard:waypoint epcard:time='11:10' epcard:alt='26000'/>
+       <epcard:waypoint epcard:time='16:21' epcard:alt='33000'/>
+       <epcard:waypoint epcard:time='20:50' epcard:alt='35000'/>
+       <epcard:waypoint epcard:time='00:36' epcard:alt='37000'/>
+       
+       <epcard:waypoint epcard:time='01:00' epcard:alt='37000' epcard:old='TOD'/>
+	   
+      <epcard:waypoint epcard:time='01:05' epcard:alt='00000' epcard:latNS='S' epcard:lat='3856' epcard:lonWE='E' epcard:lon='01325'/>
+</epcard:flight>
+</epcard:document>
